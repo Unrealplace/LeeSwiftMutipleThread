@@ -108,6 +108,7 @@
 				0416E0B91E4C1BEC00529E2E /* NsThreadVC.swift */,
 				0416E0BB1E4C1BFB00529E2E /* NSOperationVC.swift */,
 				0416E0BD1E4C1C0700529E2E /* GCDVC.swift */,
+				043907191E4DB47100ED6360 /* New Group */,
 				0416E08F1E4C102D00529E2E /* Main.storyboard */,
 				0416E0921E4C102D00529E2E /* Assets.xcassets */,
 				0416E0941E4C102D00529E2E /* LaunchScreen.storyboard */,
@@ -132,6 +133,21 @@
 				0416E0AD1E4C102D00529E2E /* Info.plist */,
 			);
 			path = MutipleThreadUITests;
+			sourceTree = "<group>";
+		};
+		043907191E4DB47100ED6360 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				0439071A1E4DB47B00ED6360 /* New Group */,
+			);
+			name = "New Group";
+			sourceTree = "<group>";
+		};
+		0439071A1E4DB47B00ED6360 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -517,6 +533,7 @@
 				0416E0B21E4C102D00529E2E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0416E0B31E4C102D00529E2E /* Build configuration list for PBXNativeTarget "MutipleThreadTests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +542,7 @@
 				0416E0B51E4C102D00529E2E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0416E0B61E4C102D00529E2E /* Build configuration list for PBXNativeTarget "MutipleThreadUITests" */ = {
 			isa = XCConfigurationList;
@@ -533,6 +551,7 @@
 				0416E0B81E4C102D00529E2E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
